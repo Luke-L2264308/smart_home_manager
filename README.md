@@ -22,7 +22,7 @@ A small educational Python application that provides a simple GUI for creating a
 
 Installation
 1. Clone the repository:
-	 - `git clone https://github.com/Luke-L2264308/smart_home_manager/tree/main `
+	 - `git clone https://github.com/Luke-L2264308/smart_home_manager`
 2. Change into the project folder:
 	 - `cd smart_home_manager`
 3. Run the app (Windows PowerShell example):
